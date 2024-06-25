@@ -1,0 +1,47 @@
+#first {
+ height: 800px;
+  color: rgb(255, 255, 255);
+  background: url('https://img.freepik.com/free-photo/monkeys-at-the-temple-of-uluwatu-on-the-island-of-bali-indonesia_231208-9906.jpg?w=1480&t=st=1719310466~exp=1719311066~hmac=6e501d3fb8b1a12d23186887adf7058c3d6462d999fa2a65ec0e45cb6eb90e98');
+  background-size: cover;
+  background-attachment: fixed;
+}
+body h1 {
+  text-align: center;
+  color:rgb(255, 255, 255);
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  font-family:monospace;
+  font-size: 70px;
+}
+
+  
+#second {
+  height: 2000px;
+}
+
+body section h2 {
+  text-align: center;
+  color: black;
+  margin: 0;
+  position: absolute;
+  top: 120%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  font-family:monospace;
+  font-size: 70px;
+
+}
+
+
+
+
+
+  
+
+
+
